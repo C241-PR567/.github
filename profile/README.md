@@ -28,9 +28,9 @@ The prototype design of this application is based on Figma. If you want to see t
 https://www.figma.com/design/u3g03KemmJaItXt9oovqGp/Capstone-Project-(Skin-Disease)?node-id=22-210&t=R6RDhr3Ej9GWAXIg-0
 
 ## Key Features
-- Chest Skin-Aja Disease Detection ()
-- Treatment Advice
-- Article
+- Detecting Skin Diseases
+- Skin Diseases List
+- Causes And Initial Treatment
 
 ## Additional Features
 - Authentication
@@ -43,7 +43,7 @@ https://www.figma.com/design/u3g03KemmJaItXt9oovqGp/Capstone-Project-(Skin-Disea
 
 For more detail, please check [this repository](https://github.com/C241-PR567/MD).
 
-**Backend Server:** Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Flask, Python, Postman. 
+**Backend Server:** Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Python, Postman. 
 
 For more detail, please check [this main API repository](https://github.com/C241-PR567/CC).
 
