@@ -13,7 +13,7 @@ From literature review and field facts, it has been found that there is a recurr
 
 These are the screenshots of our product. First, on the left displays the home view and there is a guide for using the application. Second from the left, displays the user's profile page. The next image shows the detection results from the Skin-Aja images that have been uploaded. Finally, displays articles to add insight to users.
 
-For more detail, please check [this repository]().
+For more detail, please check [this repository](https://github.com/C241-PR567/MD).
 
 ## Demo Apss
 This will show you how the app works. You can direcly access the link demo Skin-Aja applications using [by this link]()
@@ -41,7 +41,7 @@ https://www.figma.com/design/u3g03KemmJaItXt9oovqGp/Capstone-Project-(Skin-Disea
 ## Tech Stack
 **Mobile Application:** Retrofit, Android SDk, Android Support Library, CameraX, Hdodenhof's CircleImageView, Glide. 
 
-For more detail, please check [this repository]().
+For more detail, please check [this repository](https://github.com/C241-PR567/MD).
 
 **Backend Server:** Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Flask, Python, Postman. 
 
