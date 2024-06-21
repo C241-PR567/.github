@@ -49,7 +49,7 @@ For more detail, please check [this main API repository](https://github.com/C241
 
 **Machine Learning Model:** Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV, Skimage, sciPy, os
 
-For more detail, please check [this repository]().
+For more detail, please check [this repository](https://github.com/C241-PR567/ML).
 
 ## Contributing
 Bangkit 2024 Capstone Team C241-PR567
