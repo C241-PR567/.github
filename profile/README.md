@@ -45,7 +45,7 @@ For more detail, please check [this repository](https://github.com/C241-PR567/MD
 
 **Backend Server:** Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Flask, Python, Postman. 
 
-For more detail, please check [this main API repository]().
+For more detail, please check [this main API repository](https://github.com/C241-PR567/CC).
 
 **Machine Learning Model:** Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV, Skimage, sciPy, os
 
