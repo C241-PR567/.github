@@ -5,11 +5,11 @@
 From literature review and field facts, it has been found that there is a recurring process in hospitals of reading skin disease detection results using images. Meanwhile, the demand for skin disease examinations is increasing. It is often found that doctors make reading errors, and even small hospitals without a resident dermatologist struggle to produce accurate and timely readings. However, we know that image results are an important indicator of the emergence of skin diseases. Skin cancer is a serious disease that is often difficult to detect in its early stages, resulting in high mortality rates and a significant burden on society's health. Field facts show the existence of small hospitals with limited medical facilities and a shortage of dermatologists. Moreover, even though doctors are equipped with competencies to read skin image results well, factors such as fatigue and lack of concentration often result in inaccurate readings. Furthermore, some image qualities are poor, making reading even more challenging. From the perspective of medical students, it would be very interesting if they could play with an application like Skin-Aja that could directly classify results from the skin images that are inputted.
 
 ## Screenshots
-https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.01.55%20(1).jpeg
-https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.01.56%20(1).jpeg
-https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.01.57.jpeg
-https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.00.49%20(2).jpeg
-https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.00.49%20(1).jpeg
+<img src="https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.01.55%20(1).jpeg" width="24%"></img>
+<img src="https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.01.56%20(1).jpeg" width="24%"></img>
+<img src="https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.01.57.jpeg" width="24%"></img>
+<img src="https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.00.49%20(2).jpeg" width="24%"></img>
+<img src="https://github.com/C241-PR567/.github/blob/main/WhatsApp%20Image%202024-06-21%20at%2011.00.49%20(1).jpeg" width="24%"></img>
 
 These are the screenshots of our product. First, on the left displays the home view and there is a guide for using the application. Second from the left, displays the user's profile page. The next image shows the detection results from the Skin-Aja images that have been uploaded. Finally, displays articles to add insight to users.
 
